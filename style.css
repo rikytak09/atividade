@@ -1,4 +1,5 @@
-body {
+
+ body {
     margin: 0;
     padding: 0;
 }
@@ -58,7 +59,7 @@ aside {
 }
 
 aside h2 {
-    font-size: 20px;
+
     font-family: Arial, sans-serif;
 }
 
@@ -80,7 +81,9 @@ aside ul li {
 .padding{
    padding: 15px;
 }
-
+.arial{
+   font-family: Arial, sans-serif;
+}
 footer {
     background-color: #333;
     text-align: center;
