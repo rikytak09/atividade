@@ -10,13 +10,11 @@ header {
 
 header h1 {
     font-size: 28px;
-    font-family: Arial, sans-serif;
 }
 
 nav a {
     text-decoration: none;
     margin-right: 15px;
-    font-family: Arial, sans-serif;
     font-size: 16px;
 }
 
@@ -26,7 +24,6 @@ section {
 
 section h2 {
     font-size: 22px;
-    font-family: Arial, sans-serif;
 }
 
 section div {
@@ -37,12 +34,10 @@ section div {
 
 section div h3 {
     font-size: 18px;
-    font-family: Arial, sans-serif;
 }
 
 section div p {
     font-size: 16px;
-    font-family: Arial, sans-serif;
 }
 
 section div button {
@@ -56,11 +51,6 @@ aside {
     margin: 20px;
     border: 1px solid #ccc;
     background-color: #f9f9f9;
-}
-
-aside h2 {
-
-    font-family: Arial, sans-serif;
 }
 
 aside ul {
@@ -82,7 +72,7 @@ aside ul li {
    padding: 15px;
 }
 .arial{
-   font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 footer {
     background-color: #333;
@@ -91,5 +81,4 @@ footer {
 
 footer p {
     font-size: 16px;
-    font-family: Arial, sans-serif;
 }
