@@ -5,17 +5,14 @@ body {
 
 header {
     background-color: #333;
-    padding: 15px;
 }
 
 header h1 {
     font-size: 28px;
     font-family: Arial, sans-serif;
-    color: white;
 }
 
 nav a {
-    color: white;
     text-decoration: none;
     margin-right: 15px;
     font-family: Arial, sans-serif;
@@ -33,7 +30,6 @@ section h2 {
 
 section div {
     border: 1px solid #ccc;
-    padding: 15px;
     margin: 10px 0;
     background-color: #f9f9f9;
 }
@@ -51,14 +47,12 @@ section div p {
 section div button {
     padding: 10px 15px;
     background-color: blue;
-    color: white;
     border: none;
     cursor: pointer;
 }
 
 aside {
     margin: 20px;
-    padding: 15px;
     border: 1px solid #ccc;
     background-color: #f9f9f9;
 }
@@ -75,11 +69,7 @@ aside ul {
 
 aside ul li {
     font-size: 16px;
-    font-family: Arial, sans-serif;
-    margin-bottom: 5px;
-}
-.tres{
-   color:#333;
+    font-family: Arial, saclass="padding"
 }
 .cinco{
    color:#555;
@@ -87,12 +77,13 @@ aside ul li {
 .white{
    color:white;
 }
+.padding{
+   padding: 15px;
+}
 
 footer {
     background-color: #333;
-    color: white;
     text-align: center;
-    padding: 15px;
 }
 
 footer p {
